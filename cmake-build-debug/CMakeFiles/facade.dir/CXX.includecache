@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/CLion/facade/Array.cpp
+stdexcept
+-
+Array.h
+E:/CLion/facade/Array.h
+
+E:/CLion/facade/Array.h
+cstring
+-
+Array.inl
+E:/CLion/facade/Array.inl
+
+E:/CLion/facade/Array.inl
+
+E:/CLion/facade/main.cpp
+iostream
+-
+stdexcept
+-
+Array.cpp
+E:/CLion/facade/Array.cpp
+
