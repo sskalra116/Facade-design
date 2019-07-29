@@ -8,7 +8,11 @@ allows the same header file to be able to be implemented differently for differe
 ## Optimized array functionality and prevented memory leaks using:
 
 Constructors
+
 Destructors
+
 Inline functions
+
 Operator Overloading
+
 Dynamic array allocation
